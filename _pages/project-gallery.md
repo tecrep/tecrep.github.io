@@ -1,8 +1,8 @@
 ---
-title: "Splash Page"
+title: "Project Gallery"
 layout: splash
-permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+permalink: /project-gallery/
+date: 2025-07-13T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
