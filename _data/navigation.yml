@@ -1,8 +1,10 @@
 # main links
 main:
-  #- title: "Project Gallery"
-  #  url: /project-gallery/
-  #- title: "Products"
-  #  url: /products/
-  #- title: "Blog"
-  #  url: /blog/
+  - title: "Home"
+    url: /
+  - title: "Project"
+    url: /project/
+  - title: "Product"
+    url: /product/
+  #- title: "Contact"
+  #  url: /contact/

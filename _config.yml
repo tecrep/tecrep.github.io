@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : #"TECREP"
 title_separator          : "-"
 subtitle                 : #"Engineering Design Studio" site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tecrep"
+description              : "Tecrep Pte. Ltd."
 url                      : "https://tecrep.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tecrep/tecrep.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
